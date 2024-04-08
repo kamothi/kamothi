@@ -21,4 +21,3 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkddlf7911)](https://solved.ac/rhkddlf7911/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamothi&repo=github-readme-stats)](https://github.com/kamothi/github-readme-stats)
