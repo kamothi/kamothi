@@ -18,12 +18,14 @@
 
 ### Contribution
 Issue:
+
 [쿠버네티스 번역1](https://github.com/kubernetes/website/issues/51806)
 [쿠버네티스 번역2](https://github.com/kubernetes/website/issues/52022)
 [쿠버네티스 번역3](https://github.com/kubernetes/website/issues/52117)
 [쿠버네티스 번역4](https://github.com/kubernetes/website/issues/51805)
 
 PR:
+
 [쿠버네티스 번역](https://github.com/kubernetes/website/pull/51860)
 [쿠버네티스 번역](https://github.com/kubernetes/website/pull/52116)
 [쿠버네티스 번역](https://github.com/kubernetes/website/pull/52261)
