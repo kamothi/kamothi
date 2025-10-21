@@ -32,6 +32,7 @@
 ## Contribution
 ### Kubernetes
 [Kubernetes Member](https://github.com/orgs/kubernetes/people?query=kamothi) 2025.10.21 ~
+
 [Kubernetes SIG-Docs Korean l10n](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Akamothi+)
 
 ### Openstack
