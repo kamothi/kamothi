@@ -8,7 +8,6 @@
  
 ## Blog & PS
 <p>
-  <a href="https://blog.naver.com/kamothi" target="_blank"><img src="https://img.shields.io/badge/Blog-00C244?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://solved.ac/rhkddlf7911" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-0A66C2?style=flat-square&logo=codeforces&logoColor=white"/></a>
 </p>
 
