@@ -28,7 +28,7 @@
 [Kubernetes SIG-Docs Korean l10n](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Akamothi+)
 
 ### Proometheus
-https://github.com/prometheus/prometheus/pull/20053
+[document missing kubernetes_sd_config meta labels](https://github.com/prometheus/prometheus/pull/20053)
 
 ### Openstack
 [i18n Language Migration](https://review.opendev.org/c/openstack/i18n/+/961371)
