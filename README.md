@@ -29,6 +29,7 @@
 
 ### Proometheus
 [document missing kubernetes_sd_config meta labels](https://github.com/prometheus/prometheus/pull/20053)
+
 [discovery/aws: align ElastiCache serverless cache label names with the documentation](https://github.com/prometheus/prometheus/pull/20185)
 
 ### Openstack
