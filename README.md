@@ -32,6 +32,8 @@
 
 [discovery/aws: align ElastiCache serverless cache label names with the documentation](https://github.com/prometheus/prometheus/pull/20185)
 
+[fix meta label lists for consul, gce, hetzner, stackit and ovhcloud SD](https://github.com/prometheus/prometheus/pull/20272)
+
 ### Openstack
 [i18n Language Migration](https://review.opendev.org/c/openstack/i18n/+/961371)
 
