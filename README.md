@@ -27,7 +27,7 @@
 
 [Kubernetes SIG-Docs Korean l10n](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Akamothi+)
 
-### Proometheus
+### Prometheus
 [document missing kubernetes_sd_config meta labels](https://github.com/prometheus/prometheus/pull/20053)
 
 [discovery/aws: align ElastiCache serverless cache label names with the documentation](https://github.com/prometheus/prometheus/pull/20185)
@@ -38,6 +38,10 @@
 [i18n Language Migration](https://review.opendev.org/c/openstack/i18n/+/961371)
 
 [i18n Weblate 번역 파일 업데이트 로직 추가(upstream_translation_update_weblate.sh](https://review.opendev.org/c/openstack/openstack-zuul-jobs/+/921878)
+
+### Apache Airflow
+[add missing translation in common.json](https://github.com/apache/airflow/pull/76674)
+
 
 <!-- #### ⭐ Projects -->
 
