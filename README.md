@@ -42,6 +42,8 @@
 ### Apache Airflow
 [add missing translation in common.json](https://github.com/apache/airflow/pull/76674)
 
+### OpenTelemetry
+[Add tests for HTTPServer.NetworkTransportAttr](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/10245)
 
 <!-- #### ⭐ Projects -->
 
