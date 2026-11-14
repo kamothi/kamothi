@@ -40,7 +40,9 @@
 [i18n Weblate 번역 파일 업데이트 로직 추가(upstream_translation_update_weblate.sh](https://review.opendev.org/c/openstack/openstack-zuul-jobs/+/921878)
 
 ### Apache Airflow
-[add missing translation in common.json](https://github.com/apache/airflow/pull/76674)
+[add missing translation in common.json(Nov 7)](https://github.com/apache/airflow/pull/76674)
+[add missing translation in common.json(Nov 11)](https://github.com/apache/airflow/pull/76920)
+[add missing translation in common.json(Nov 14)](https://github.com/apache/airflow/pull/77082)
 
 ### OpenTelemetry
 [Add tests for HTTPServer.NetworkTransportAttr](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/10245)
