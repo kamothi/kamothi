@@ -41,7 +41,9 @@
 
 ### Apache Airflow
 [add missing translation in common.json(Nov 7)](https://github.com/apache/airflow/pull/76674)
+
 [add missing translation in common.json(Nov 11)](https://github.com/apache/airflow/pull/76920)
+
 [add missing translation in common.json(Nov 14)](https://github.com/apache/airflow/pull/77082)
 
 ### OpenTelemetry
